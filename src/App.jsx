@@ -1,7 +1,7 @@
-import Header from "./comonentss/header/Header"
-import Main from "./comonentss/main/main"
-import Section from "./comonentss/section/section"
-import Service from "./comonentss/Servicee/service"
+import Header from "./comonentss/Hader/Header"
+import Main from "./comonentss/Main/Main"
+import Section from "./comonentss/Section/Section"
+import Service from "./comonentss/Servicee/Service"
 
 const App = () => {
 
