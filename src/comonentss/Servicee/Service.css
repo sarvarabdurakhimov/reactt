@@ -1,0 +1,44 @@
+.katta {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+
+.card {
+    width: 388px;
+    height: 494px;
+    border-radius: 16px;
+    background: #FFFFFF;
+    border: 1px solid #EFF0F6;
+    justify-content: center;
+    
+}
+
+
+p{
+    width: 312px;
+    font-family: Roboto;
+font-weight: 400;
+font-style: Regular;
+font-size: 21px;
+leading-trim: NONE;
+line-height: 30.01px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+
+
+span{
+    font-family: Roboto;
+font-weight: 700;
+font-style: Bold;
+font-size: 24px;
+leading-trim: NONE;
+line-height: 34.01px;
+letter-spacing: 0%;
+text-align: center;
+
+}

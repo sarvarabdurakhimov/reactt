@@ -1,0 +1,15 @@
+button{
+        background: #0075FF;
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    leading-trim: NONE;
+    line-height: 18px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 17px 24px;
+    border-radius: 14px;
+    border: none;
+}
