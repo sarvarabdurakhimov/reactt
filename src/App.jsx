@@ -1,16 +1,18 @@
-import Header from "./comonentss/Hader/Header"
-import Main from "./comonentss/Main/Main"
-import Section from "./comonentss/Section/Section"
-import Service from "./comonentss/Servicee/Service"
+import Background from "./Components/Background/Background"
+import Header from "./Components/Header/Header"
+import Main from "./Components/Main/Main"
+import Section from "./Components/Section/Section"
+import Service from "./Components/Servicee/Service"
+
 
 const App = () => {
-
   return (
     <div>
-      <Header/>
-      <Main />
-      <Section/>
-      <Service/>
+      <Header/> 
+      <Main/> 
+      <Section/> 
+      <Service/> 
+      <Background/> 
     </div>
   )
 }
