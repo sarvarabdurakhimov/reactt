@@ -1,6 +1,6 @@
 import rasm from "../../assets/IMAGE (8).png"
 import Btn from "../Button/Btn"
-import "./section.css"
+import "./Section.css"
 
 const Section = () => {
   return (

@@ -1,7 +1,7 @@
 import btn from "../Button/Btn"
 import rasm from "../../assets/IMAGE (7).png"
 import surat from "../../assets/surat.png"
-import "./main.css"
+import "./Main.css"
 import Btn from "../Button/Btn"
 
 const Main = () => {
